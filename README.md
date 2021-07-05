@@ -4,7 +4,7 @@
 In overriding class vars and instance vars in OOP of Python, there are a few things to make crystal clear.
 These include the hierachy of searching methods, class vars, instance vars and functions.
 
-~Python code2-->
+~Python code1-->
 
 	class A:
 		classvar1 = "This is a Class variable in Class A"
