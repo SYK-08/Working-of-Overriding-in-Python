@@ -5,6 +5,7 @@ In overriding class vars and instance vars in OOP of Python, there are a few thi
 These include the hierachy of searching methods, class vars, instance vars and functions.
 
 ~Python code2-->
+
 class A:
 	classvar1 = "This is a Class variable in Class A"
 	
@@ -29,6 +30,7 @@ print(b.classvar1)
 But in some cases we may need the contents present in the __init__ of Class A, and we have a way to do that.
 
 ~Python code2--->
+
 class A:
 	classvar1 = "This is a Class variable in Class A"
 	
